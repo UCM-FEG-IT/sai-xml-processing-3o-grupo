@@ -1,4 +1,4 @@
-#Tutorial Processing XML files with Java
+# Tutorial Processing XML files with Java
 
 ## Jargon
 
@@ -476,3 +476,4 @@ XML is widely used for a number of purposes since it is easily read and understo
     2.  Now write a program to display the contents of this xml memo.
     3.  Write a program to transform the memo into HTML and raw text.
 2.  Implement a SAX parser using  DefaultHandler  instead of  ContentHandler.
+ 
